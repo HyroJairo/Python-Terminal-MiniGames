@@ -1,0 +1,15 @@
+Player lost the game with 5 guesses. :(Player lost the game with 3 guesses. :(Player lost the game with 6 guesses. :(
+Player won the game with 7 guesses!
+Player won the game with 13 guesses!
+Player won the game with 6 guesses!
+Player won the game with 6 guesses!
+Player lost the game with 0 guesses. :(
+Player lost the game with 11 guesses. :(
+Player lost the game with 5 guesses. :(
+Player lost the game with 10 guesses. :(
+Player lost the game with 20 guesses. :(
+Player lost the game with 11 guesses. :(
+Player lost the game with 18 guesses. :(
+Player won the game with 9 guesses!
+Player lost the game with 5 guesses. :(
+Player won the game with 3 guesses!
